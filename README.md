@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marina López</h1>
-<h3 align="center">I'm a game dev</h3>
+<h3 align="center">Trying to be game dev</h3>
 
 - 📫 How to reach me **marinalg109@gmail.com**
 
